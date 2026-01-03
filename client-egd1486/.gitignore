@@ -23,3 +23,5 @@ db.yml
 *.njsproj
 *.sln
 *.sw?
+
+*.pyc
